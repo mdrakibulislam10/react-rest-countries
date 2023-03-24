@@ -1,0 +1,13 @@
+.menu {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.menu a {
+    text-decoration: none;
+    /* border: 2px solid salmon; */
+    padding: 12px;
+    border-radius: 5px;
+    background-color: rgb(12, 134, 255);
+    color: white;
+}
